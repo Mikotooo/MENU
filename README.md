@@ -1,2 +1,2 @@
-# MENU
-linked list MENU in C language
+# PROGRAMMING II 
+UNIVERSITY OF SAN CARLOS
